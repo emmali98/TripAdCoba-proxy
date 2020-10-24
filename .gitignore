@@ -1,2 +1,4 @@
 node_modules
 /dist/bundle.js
+newrelic.js
+newrelic_agent.log
